@@ -1,0 +1,122 @@
+ALPHA_MIRROR :
+Ce programme prend une chaîne de caractères en entrée et effectue une rotation vers la gauche, où le premier mot devient le dernier. Il supprime également les espaces et les tabulations en trop et gère les espaces ou tabulations consécutifs.
+
+ATOI :
+Cette fonction ft_atoi convertit une chaîne de caractères représentant un nombre en un entier.
+
+CAMEL_TO_SNAKE :
+Transforme une chaîne de caractères écrite en camel case en snake case en insérant des underscores entre les mots et en convertissant les majuscules en minuscules.
+
+DO_OP :
+Ce programme gère les opérateurs arithmétiques (+, -, *, /, %) sur trois arguments (deux nombres et un opérateur).
+
+FT_STRCMP :
+Compare deux chaînes de caractères et retourne la différence entre elles.
+
+FT_STRCSPN :
+Calcule la longueur du segment initial d'une chaîne qui ne contient que des octets absents d'une chaîne de
+rejet.
+
+FT_STRDUP :
+Retourne un pointeur vers une nouvelle chaîne de caractères qui est une copie de la chaîne source.
+
+FT_STRREV :
+Inverse l'ordre des caractères dans une chaîne de caractères donnée.
+
+FT_STRSPN :
+Calcule la longueur initiale d'une chaîne de caractères qui ne contient que des octets présents dans une autre chaîne donnée.
+
+INTER :
+Compare deux chaînes de caractères et affiche les caractères communs non répétés dans l'ordre d'apparition.
+
+IS_POWER_OF_2 :
+Vérifie si un nombre est une puissance de 2.
+
+LAST_WORD :
+Extrait et affiche le dernier mot d'une chaîne de caractères.
+
+MAX :
+Trouve la valeur maximale dans un tableau d'entiers.
+
+PRINT_BITS :
+Affiche les bits d'un octet.
+
+REVERSE_BITS :
+Inverse l'ordre des bits d'un octet.
+
+SNAKE_TO_CAMEL :
+Convertit une chaîne de caractères écrite en snake case en camel case en supprimant les underscores et en mettant en majuscule la première lettre de chaque mot.
+
+SWAP_BITS :
+Échange les quatre bits de poids faible avec les quatre bits de poids fort d'un octet.
+
+UNION :
+Ce programme prend deux chaînes de caractères en entrée et affiche les caractères qui apparaissent dans l'une ou l'autre des chaînes, sans doublons.
+
+WDMATCH :
+Vérifie si la première chaîne est contenue dans la deuxième chaîne et affiche la première chaîne si c'est le cas.
+
+LCM (Least Common Multiple) :
+Calcule le plus petit multiple commun de deux nombres en utilisant la méthode du PGCD.
+
+PGCD (Plus Grand Commun Diviseur) :
+Calcule le plus grand diviseur commun de deux nombres en utilisant l'algorithme d'Euclide.
+
+ADD_PRIME_SUM :
+Compte le nombre de nombres premiers jusqu'à un certain seuil.
+
+EPUR_STR :
+Supprime les espaces et les tabulations en trop d'une chaîne de caractères.
+
+EXPEND_STR :
+Ajoute trois espaces entre chaque mot d'une chaîne de caractères.
+
+FT_ATOI_BASE :
+Convertit une chaîne de caractères représentant un nombre en base donnée en un entier.
+
+FT_LIST_SIZE :
+Calcule la taille d'une liste chaînée.
+
+FT_RANGE :
+Crée un tableau d'entiers contenant des valeurs consécutives dans une plage donnée.
+
+FT_RRANGE :
+Crée un tableau d'entiers contenant des valeurs consécutives dans une plage donnée, dans l'ordre inverse.
+
+HIPEND :
+Vérifie si une sous-chaîne est présente dans une autre chaîne.
+
+PARAMSUM :
+Affiche le nombre d'arguments passés en ligne de commande.
+
+PRINT_HEXA :
+Affiche un entier en hexadécimal.
+
+RSTR_CAPITALIZER :
+Met en majuscule la dernière lettre de chaque mot et conserve la casse des autres lettres.
+
+STR_CAPITALIZER :
+Met en majuscule la première lettre de chaque mot et conserve la casse des autres lettres.
+
+TAB_MULT :
+Affiche la table de multiplication d'un nombre donné.
+
+FLOOD_FILL : Cet exercice implémente l'algorithme de remplissage par diffusion (flood fill). L'idée est de remplir une zone d'un tableau à deux dimensions avec une couleur spécifique à partir d'un point de départ. L'algorithme se propage dans les quatre directions (gauche, droite, haut, bas) en vérifiant si la case adjacente est du même type que celle d'origine à remplir. Si oui, elle est remplie et l'algorithme se propage récursivement à partir de cette case.
+
+FPRIME : Ce programme décompose un nombre en facteurs premiers. Il itère à travers les diviseurs du nombre donné et les imprime lorsqu'ils divisent le nombre de manière exacte. Cela se répète jusqu'à ce que le nombre soit égal à 1.
+
+FT_LIST_FOREACH : Cette fonction parcourt une liste chaînée en appliquant une fonction donnée à chaque élément de la liste. Elle utilise une boucle pour itérer à travers chaque élément de la liste et appliquer la fonction spécifiée à chaque donnée de l'élément.
+
+FT_LIST_REMOVE : Cette fonction supprime un nœud d'une liste chaînée si la donnée correspond à une référence donnée. Elle utilise une approche récursive pour parcourir la liste, en vérifiant si la donnée de chaque nœud correspond à la référence. Si c'est le cas, le nœud est supprimé de la liste.
+
+FT_REV_WSTR : Ce programme prend une chaîne de caractères en entrée, la divise en mots, puis les affiche dans l'ordre inverse. Il utilise une fonction pour diviser la chaîne en mots en fonction des espaces, puis itère à travers ces mots dans l'ordre inverse, les imprimant un par un.
+
+FT_SPLIT : Cette fonction divise une chaîne de caractères en mots distincts et les stocke dans un tableau à double entrée. Elle itère à travers la chaîne en recherchant les séparateurs (espaces, tabulations, retours à la ligne), puis stocke chaque mot dans une case différente du tableau.
+
+ITOA : Cette fonction convertit un entier en une chaîne de caractères. Elle utilise une approche itérative pour déterminer le nombre de chiffres de l'entier, alloue la mémoire nécessaire pour la chaîne résultante, puis itère à travers chaque chiffre de l'entier, le convertit en caractère et le stocke dans la chaîne.
+
+ROSTRING : Ce programme effectue une rotation vers la gauche sur la première lettre de chaque mot d'une chaîne de caractères. Il parcourt la chaîne, recherche le premier mot, le stocke, puis décale le reste de la chaîne vers la gauche et ajoute le premier mot à la fin.
+
+SORT_IN_TAB : Ce programme trie un tableau d'entiers en utilisant l'algorithme de tri à bulles. Il utilise une double boucle pour comparer chaque élément du tableau avec son voisin et les échanger si nécessaire, répétant ce processus jusqu'à ce que le tableau soit entièrement trié.
+
+SORT_LIST : Cette fonction trie une liste chaînée d'entiers dans l'ordre spécifié par une fonction de comparaison. Elle parcourt la liste en comparant chaque élément avec son voisin, les échangeant si nécessaire pour les trier dans l'ordre spécifié.
