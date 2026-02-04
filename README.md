@@ -1,5 +1,25 @@
---------------------------------------------     HELLO     ---------------------------------------------
+﻿# Salut, moi c'est Dylan 👋
 
-Bienvenue sur mon depot, vous trouverez ici tout mon travail, que ce soit des exercices ou bien des projets complets, je posterais ici mon aventure en tant que devellopper debutant.
+Developpeur debutant et etudiant a l'ecole 42, base a Perpignan.
 
-alors merci de suivre mon travail et c'est partit…
+## Ce que je fais en ce moment
+- progression quotidienne en programmation
+- construction de projets pour consolider les bases
+- pratique Git/GitHub pour un workflow propre
+
+## Stack de travail
+- C / C++
+- C# / .NET
+- Python
+- JavaScript / HTML
+- Git, Docker, VS Code
+
+## Objectif
+Construire des projets simples, propres et bien documentes,
+puis monter progressivement en complexite.
+
+## Repos a suivre
+- Projets perso en cours (updates regulieres)
+- Exercices et experimentation technique
+
+Merci pour la visite 🙌
