@@ -1,6 +1,6 @@
 # Salut, moi c'est Dylan ??
 
-Developpeur en progression continue, etudiant a l'ecole 42 (Perpignan).
+Developpeur en progression continue.
 Je construis des projets pour renforcer mes bases et monter en niveau semaine apres semaine.
 
 ## Focus actuel
