@@ -1,25 +1,35 @@
-﻿# Salut, moi c'est Dylan 👋
+# Salut, moi c'est Dylan ??
 
-Developpeur debutant et etudiant a l'ecole 42, base a Perpignan.
+Developpeur en progression continue, etudiant a l'ecole 42 (Perpignan).
+Je construis des projets pour renforcer mes bases et monter en niveau semaine apres semaine.
 
-## Ce que je fais en ce moment
-- progression quotidienne en programmation
-- construction de projets pour consolider les bases
-- pratique Git/GitHub pour un workflow propre
+## Focus actuel
+- consolider les bases en C, C++ et Python
+- pratiquer C#/.NET et JavaScript sur des projets concrets
+- maintenir un workflow Git/GitHub propre (branches, commits lisibles, README clair)
 
-## Stack de travail
+## Stack
 - C / C++
 - C# / .NET
 - Python
-- JavaScript / HTML
+- JavaScript / HTML / CSS
 - Git, Docker, VS Code
 
-## Objectif
-Construire des projets simples, propres et bien documentes,
-puis monter progressivement en complexite.
+## Objectif 2026
+Construire un portfolio de projets simples, propres et documentes,
+avec une progression visible et reguliere.
 
-## Repos a suivre
-- Projets perso en cours (updates regulieres)
-- Exercices et experimentation technique
+## Ce que tu trouveras ici
+- des projets perso
+- des exercices techniques
+- des mises a jour de progression
 
-Merci pour la visite 🙌
+## Roadmap courte
+- [ ] publier 2 a 3 repos publics vitrines
+- [ ] ajouter des tests de base sur les projets principaux
+- [ ] standardiser les README (installation, usage, limites)
+
+## Contact
+- GitHub: [@DysoXXIII](https://github.com/DysoXXIII)
+
+Merci pour la visite ??
